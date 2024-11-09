@@ -1,7 +1,7 @@
 
 <h1 align="center">Shoppy</h1>
 <h4 align="center">
-	A Movies guide app with various details and trailers. Discover the most popular and top trending movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
+	Data Visualization
 </h4>
 
   
@@ -33,10 +33,10 @@
 
 
 ## 🌟 Features
-*   Discover the most popular and the most Trending movies
-*   User can view and play trailers on video dialogue
-*   Shows a list of reviews for each movie
-*   Users can mark a movie as favorite in the details view by tapping a plus icon 
+*   
+*   
+*   
+*   
 
 
 
