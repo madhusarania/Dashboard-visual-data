@@ -53,7 +53,7 @@
 ```
 MIT License
 
-Copyright (c) 2023 Tridev Deka
+Copyright (c) 2024 Madhu Srania 
 ```
 
 
