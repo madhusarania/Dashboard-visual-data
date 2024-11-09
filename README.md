@@ -7,6 +7,7 @@
   
 
 
+
 ## ✨ Screenshots
 
 <p align="center">
@@ -26,11 +27,21 @@
 
 
 
+
+
+
+
+
 ## 🌟 Features
 *   Discover the most popular and the most Trending movies
 *   User can view and play trailers on video dialogue
 *   Shows a list of reviews for each movie
 *   Users can mark a movie as favorite in the details view by tapping a plus icon 
+
+
+
+
+
 
 
 
