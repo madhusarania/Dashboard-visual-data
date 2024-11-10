@@ -33,10 +33,10 @@
 
 
 ## 🌟 Features
-*   
-*   
-*   
-*   
+*   Built a custom React admin dashboard with responsive design, utilizing Context API for global state management.
+*   Developed interactive data tables, calendar, Kanban board, and dynamic charts for real-time data visualization.
+*   Implemented features like WYSIWYG editor and color picker, enhancing user experience and customization.
+*   Optimized the app for production and deployed with performance-focused best practices.
 
 
 
