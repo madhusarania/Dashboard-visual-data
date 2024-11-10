@@ -5,7 +5,7 @@
 </h4>
 
 ## ✨ Key Features & Code Explanations
-<p>
+<p alig="center>
 	1> Project Setup:
             > The project initializes with React using standard configurations, adding Syncfusion components and React Router for navigation.
             > Packages like Syncfusion’s ejs-react-ui-components bring prebuilt, customizable components (charts, grids, calendars) to the dashboard.
