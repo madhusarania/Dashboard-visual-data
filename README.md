@@ -1,7 +1,7 @@
 
 <h1 align="center">Shoppy</h1>
 <h4 align="center">
-	Data Visualization
+	The Dashboard is an interactive admin interface built with React and Syncfusion components, designed to handle complex data visualization needs. It includes customizable themes, rich UI components, and a responsive design, making it a scalable solution for managing business data.
 </h4>
 
   
