@@ -6,7 +6,8 @@
 
 ## ✨ Key Features & Code Explanations
 <h3>1. Project Setup:</h3>
-##* The project initializes with React using standard configurations, adding Syncfusion components and React Router for navigation.
+
+  * The project initializes with React using standard configurations, adding Syncfusion components and React Router for navigation.
   * Packages like Syncfusion’s ejs-react-ui-components bring prebuilt, customizable components (charts, grids, calendars) to the dashboard.
   
 
