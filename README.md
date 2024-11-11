@@ -10,42 +10,42 @@
   * The project initializes with React using standard configurations, adding Syncfusion components and React Router for navigation.
   * Packages like Syncfusion’s ejs-react-ui-components bring prebuilt, customizable components (charts, grids, calendars) to the dashboard.
     
- <h3>Sidebar & Navigation (Components)</h3>
+ <h3>2.Sidebar & Navigation (Components)</h3>
 
   * The Sidebar component is responsible for navigation and dynamically highlights active links. React Router links are used for seamless page transitions.
   * Styling is managed with CSS modules and customized theme classes, ensuring the sidebar is both visually integrated and responsive.
     
-<h3>State Management with Context API:</h3>
+<h3>3.State Management with Context API:</h3>
 
   * A Context API setup manages global settings like theme preferences, sidebar toggle states, and layout options, making data and state accessible across the app.
   * This approach simplifies global state management without needing external libraries, such as Redux, and enhances app performance.
-<h3>Navbar & Theme Customization:</h3>
+<h3>4.Navbar & Theme Customization:</h3>
 
   * The Navbar allows quick access to settings and theme changes. It also contains user profile options and notifications.
   * The theme settings apply global CSS variables, enabling instant theme changes and providing a user-customizable interface.
-<h3>Dashboard and Revenue Section:</h3>
+<h3>5.Dashboard and Revenue Section:</h3>
 
   * The Home/Dashboard page is the central hub, showing key metrics, such as revenue, user engagement, and sales data.
   * The Revenue Section uses Syncfusion’s chart components, pulling data from a sample dataset to create responsive and interactive line, pie, and bar charts.
-<h3>Data Tables:</h3>
+<h3>6.Data Tables:</h3>
 
   * Syncfusion’s Data Grid component is set up to handle large datasets with built-in filtering, sorting, and pagination.
   * Custom renderers and event handlers are used to enrich table interactivity, supporting complex user tasks like in-depth data analysis.
-<h3>Calendar & Kanban Board:</h3>
+<h3>7.Calendar & Kanban Board:</h3>
 
   * The Calendar component integrates a scheduler for event tracking, with options to customize views (daily, weekly, monthly) and events.
   * The Kanban board allows task management, and drag-and-drop functionality, ideal for tracking progress on multiple projects or tasks.
-<h3>WYSIWYG Editor & Color Picker:</h3>
+<h3>8.WYSIWYG Editor & Color Picker:</h3>
 
-The WYSIWYG Editor enables users to input and style text-rich data directly within the app, offering a full suite of formatting options.
-The Color Picker provides a palette selector that lets users modify theme colors on the fly, which instantly updates component styling across the dashboard.
-Charts:
+  * The WYSIWYG Editor enables users to input and style text-rich data directly within the app, offering a full suite of formatting options.
+  * The Color Picker provides a palette selector that lets users modify theme colors on the fly, which instantly updates component styling across the dashboard.
+<h3>9.Charts:</h3>
 
-Various charts (bar, line, pie) are used to represent data visually. Syncfusion’s robust charting options offer interactivity, such as hover effects and tooltips.
-Data can be dynamically fetched and visualized in real-time, demonstrating the dashboard's flexibility to handle live data inputs.
-Deployment:
+  * Various charts (bar, line, pie) are used to represent data visually. Syncfusion’s robust charting options offer interactivity, such as hover effects and tooltips.
+  * Data can be dynamically fetched and visualized in real-time, demonstrating the dashboard's flexibility to handle live data inputs.
+<h3>Deployment:</h3>
 
-The app is optimized and deployed for production using Netlify or Vercel. It includes adjustments for cross-browser compatibility and accessibility, ensuring it performs well on different devices and environments.   
+  * The app is optimized and deployed for production using Netlify or Vercel. It includes adjustments for cross-browser compatibility and accessibility, ensuring it performs well on different devices and environments.   
   
 
 
