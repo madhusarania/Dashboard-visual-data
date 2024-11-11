@@ -43,7 +43,7 @@
 
   * Various charts (bar, line, pie) are used to represent data visually. Syncfusion’s robust charting options offer interactivity, such as hover effects and tooltips.
   * Data can be dynamically fetched and visualized in real-time, demonstrating the dashboard's flexibility to handle live data inputs.
-<h3>Deployment:</h3>
+<h3>10.Deployment:</h3>
 
   * The app is optimized and deployed for production using Netlify or Vercel. It includes adjustments for cross-browser compatibility and accessibility, ensuring it performs well on different devices and environments.   
   
